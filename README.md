@@ -4,8 +4,6 @@
 
 ---
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/108339279?v=4" width="400" alt="main image"></p>
-
 ### Мои контакты:
 <p>
 <a href="https://t.me/AlexEx2"><img src="https://img.shields.io/badge/TELEGRAM-white?style=flat&logo=TELEGRAM&logoColor=%2366CDAA&labelColor=grey&color=grey" alt="telegram icon"></a>
