@@ -4,6 +4,8 @@
 
 ---
 
+<p align="center"><img src="https://avatars.githubusercontent.com/u/108339279?v=4" width="400" alt="main image"></p>
+
 ### Мои контакты:
 <p>
 <a href="https://t.me/AlexEx2"><img src="https://img.shields.io/badge/TELEGRAM-white?style=flat&logo=TELEGRAM&logoColor=%2366CDAA&labelColor=grey&color=grey" alt="telegram icon"></a>
@@ -38,5 +40,13 @@
 ![Static Badge](https://img.shields.io/badge/POSTMAN-white?style=flat&logo=POSTMAN&logoColor=%2366CDAA&labelColor=grey&color=grey)
 ![Static Badge](https://img.shields.io/badge/NGINX-white?style=flat&logo=nginx&logoColor=%2366CDAA&labelColor=grey&color=grey)
 ![Static Badge](https://img.shields.io/badge/FIGMA-white?style=flat&logo=FIGMA&logoColor=%2366CDAA&labelColor=grey&color=grey)
+
+---
+
+### Текущая статистика:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alexep0&border=66CDAA&background=100%2C66CDAA%2C66CDAA&stroke=828282&ring=828282&fire=828282&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=120606&dates=1C0A0A)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexep0&layout=compact&bg_color=66CDAA&border_color=66CDAA&title_color=000000&text_color=000000)
 
 ---
